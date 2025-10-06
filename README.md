@@ -5,3 +5,6 @@ Maximiliano Beccaria, Leonardo Montagna y Franco Ghiberto
 
 
 [Mockups del proyecto](https://www.figma.com/design/sn884FDN51d7lW9HI4Uv5O/Sistema-de-Reserva-Ordenado?m=auto&t=Q5dXaXpnkWi6MyGJ-1)
+
+
+[Diagrama de clases](https://lucid.app/lucidchart/d4d01b04-14a6-45b5-9c7d-63e74d6a985e/edit?viewport_loc=-2292%2C-439%2C5709%2C2702%2C0_0&invitationId=inv_2b6b48eb-d0de-491a-9294-d541e3be206e)
