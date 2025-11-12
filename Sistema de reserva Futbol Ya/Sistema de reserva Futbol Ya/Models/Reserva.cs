@@ -13,10 +13,13 @@ namespace Sistema_de_reserva_Futbol_Ya.Models
         [Key]
         public int CodigoReserva { get; set; }
         public DateTime FechaReserva { get; set; }
-        public TimeSpan Hora { get; set; }
-        public int Duracion { get; set; } // Duración en horas
+        public TimeSpan HoraDesde { get; set; }
+        public TimeSpan HoraHasta { get; set; }
+        public string DniCliente { get; set; }
+        public string TelefonoCliente { get; set; }
+        public int Duracion { get; set; } // Corregir horas
         public int CodigoCancha { get; set; }
-        public int CodigoUsuario { get; set; }
+        public int CodigoUsuario { get; set; } //corregir id para que cummpla con ET.
 
         // Relaciones
         public Cancha Cancha { get; set; }
